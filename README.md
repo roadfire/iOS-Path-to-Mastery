@@ -2,7 +2,7 @@
 A path to mastery for iOS development. Use it to determine where you are now, what you need to learn to get to the next level, and to stay motivated as you learn iOS.
 
 ## About this repository
-This article was originally published at [http://roadfiresoftware.com/a-path-to-mastery-for-ios-developers/](http://roadfiresoftware.com/a-path-to-mastery-for-ios-developers/). This repository exists solely for feedback.
+This article was originally published at [http://roadfiresoftware.com/a-path-to-mastery-for-ios-developers/](http://roadfiresoftware.com/a-path-to-mastery-for-ios-developers/). This repository exists solely for feedback on the skills and levels of the path.
 
 ## Contributing
 Fork this repository. Make changes. Submit a pull request.
