@@ -209,4 +209,4 @@ As an expert, you know how to best architect your code for reuse, readability, a
 
 ---
 
-What are you waiting for? Get started with the 5-Part Guide to Swift, and then power through the Novice and Beginner levels in one day with the [iOS Boot Camp](http://roadfiresoftware.com/ios-boot-camp/).
+What are you waiting for? Get started with the [5-Part Guide to Swift](http://roadfiresoftware.com/free-swift-course/), and then power through the Novice and Beginner levels in one day with the [iOS Boot Camp](http://roadfiresoftware.com/ios-boot-camp/).
