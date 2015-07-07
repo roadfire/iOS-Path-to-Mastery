@@ -1,13 +1,15 @@
 # iOS-Path-to-Mastery
-A path to mastery for iOS development.
+A path to mastery for iOS development. Use it to determine where you are now, what you need to learn to get to the next level, and to stay motivated as you learn iOS.
 
 ## About this repository
-(Originally published at [http://roadfiresoftware.com/a-path-to-mastery-for-ios-developers/](http://roadfiresoftware.com/a-path-to-mastery-for-ios-developers/). This repository exists solely for feedback.)
+This article was originally published at [http://roadfiresoftware.com/a-path-to-mastery-for-ios-developers/](http://roadfiresoftware.com/a-path-to-mastery-for-ios-developers/). This repository exists solely for feedback.
 
 ## Contributing
 Fork this repository. Make changes. Submit a pull request.
 
 ---
+
+# The Path to Mastery
 
 If you're an iOS developer writing code in Swift, you can use this Path to Mastery to determine where you are now and what skills you need to learn to get to the next level of mastery. Use this as a checklist to track your progress and as a guide to determine what to learn next. Feel free to print it out or create a PDF out of it and cross items off as you learn them.
 
